@@ -1,0 +1,10 @@
+The logic pertaining to fileting out people resides in Planner.java class.
+All the other java classes are the surrounding helper classes.
+The entire code has been programmed to mimic real world instances.
+I tested the logic using karate neworking data. 
+More details of this data could be found at - http://www.stat.cmu.edu/~jiashun/Research/software/NetworkData/Karate/
+Tested the karate network using different cutoff criteria values (like 3 friends, 4 friends and 5 friends).
+The code includes comments to walk you through the logic.
+The entire pipeline can be run from Driver.java class.
+If you wish to test the program further (using your inputs), you could do so by 
+creating Person and Pair objects and by passing them to Planner.java class as inputs (list).

@@ -1,0 +1,5 @@
+ASSUMPTIONS:
+
+1. Guests discovered in pairs list should be included in the guests list. In other words pairs hsould be a subset of guests list.
+2. No duplicates in guests list.
+3. Indexing for guests starts from zero.
